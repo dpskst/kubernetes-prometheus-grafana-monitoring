@@ -493,7 +493,8 @@ Alert Recovery
 
 📸 **Screenshot**
 
-> Prometheus 또는 Grafana에서 Alert가 `Inactive / Normal` 상태로 복구된 화면
+> <img width="488" height="427" alt="image" src="https://github.com/user-attachments/assets/d28914ae-12b2-4e0c-b56d-32f6831c4e57" />
+
 
 ---
 
