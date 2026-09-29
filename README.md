@@ -353,7 +353,8 @@ http://localhost:9090/alerts
 
 📸 **Screenshot**
 
-> Prometheus `/alerts` 화면에서 `KubernetesCPUHigh`가 `Inactive` 상태로 표시된 화면
+>![Uploading image.png…]()
+
 
 ---
 
