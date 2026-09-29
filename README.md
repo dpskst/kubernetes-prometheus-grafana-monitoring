@@ -408,13 +408,15 @@ Firing
 
 📸 **Screenshot**
 
-> Prometheus `/alerts`에서 `KubernetesCPUHigh`가 `Firing` 상태인 화면
+> <img width="480" height="432" alt="image" src="https://github.com/user-attachments/assets/2ccbcadf-b499-4f87-814d-4d8a979a5f7c" />
+
 
 ### Grafana Alert
 
 📸 **Screenshot**
 
-> Grafana Alerting 화면에서 Alert가 `Firing` 상태인 화면
+> <img width="1855" height="793" alt="image" src="https://github.com/user-attachments/assets/75d13615-e823-400f-8ffe-3e419846a530" />
+
 
 ---
 
@@ -440,7 +442,8 @@ CPU Alert 발생 시 Telegram으로 알림이 전달되는 것을 확인했습�
 
 📸 **Screenshot**
 
-> 실제 Telegram에서 수신한 CPU Alert 화면
+> <img width="365" height="449" alt="image" src="https://github.com/user-attachments/assets/3c2d6b97-c66d-4e09-afaa-c6e749d1f97f" />
+
 
 ⚠️ **주의**
 
