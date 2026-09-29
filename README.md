@@ -130,7 +130,8 @@ kubectl get nodes
 
 📸 **Screenshot**
 
-> `kubectl get nodes` 결과가 보이는 터미널 화면
+> <img width="578" height="83" alt="image" src="https://github.com/user-attachments/assets/86b7f25a-cb86-46b1-843f-27f3992e075b" />
+
 
 ---
 
