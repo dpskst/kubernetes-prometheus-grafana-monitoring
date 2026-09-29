@@ -182,7 +182,8 @@ kubectl get pods -n monitoring
 📸 **Screenshot**
 
 > `kubectl get pods -n monitoring` 결과
-> Prometheus / Grafana / Alertmanager / Operator 등이 Running 상태인 화면
+> <img width="726" height="174" alt="image" src="https://github.com/user-attachments/assets/9deb2419-4ca4-4e17-bd4b-e625c95faeca" />
+
 
 ---
 
