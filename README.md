@@ -40,8 +40,8 @@ Kubernetes의 CPU / Memory 및 Pod 상태를 Prometheus로 수집하고 Grafana�
                     ┌───────────────┐
                     │  Prometheus   │
                     │               │
-                    │ Metric 수집    │
-                    │ Alert 평가     │
+                    │ Metric 수집   │
+                    │ Alert 평가    │
                     └───────┬───────┘
                             │
                             ▼
