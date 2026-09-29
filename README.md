@@ -128,7 +128,7 @@ kubectl get nodes
 
 ### Kubernetes Cluster
 
-📸 **Screenshot**
+ **Screenshot**
 
 > <img width="578" height="83" alt="image" src="https://github.com/user-attachments/assets/86b7f25a-cb86-46b1-843f-27f3992e075b" />
 
@@ -179,7 +179,7 @@ kubectl get pods -n monitoring
 
 ### Monitoring Stack
 
-📸 **Screenshot**
+ **Screenshot**
 
 > `kubectl get pods -n monitoring` 결과
 > <img width="726" height="174" alt="image" src="https://github.com/user-attachments/assets/9deb2419-4ca4-4e17-bd4b-e625c95faeca" />
@@ -212,7 +212,7 @@ http://localhost:3000
 
 ### Grafana Kubernetes Dashboard
 
-📸 **Screenshot**
+ **Screenshot**
 
 > <img width="1844" height="905" alt="image" src="https://github.com/user-attachments/assets/e52067a5-e63a-4cac-af2a-1432ae8466f6" />
 
@@ -256,7 +256,7 @@ Prometheus Query를 통해 Kubernetes의 실제 Pod 상태가 Metric으로 수�
 
 ### Prometheus Query
 
-📸 **Screenshot**
+ **Screenshot**
 
 > <img width="501" height="333" alt="image" src="https://github.com/user-attachments/assets/31bea2fb-9419-4e61-a48a-cd841121a823" />
 
@@ -351,7 +351,7 @@ http://localhost:9090/alerts
 
 ### Alert Rule
 
-📸 **Screenshot**
+ **Screenshot**
 
 ><img width="481" height="726" alt="image" src="https://github.com/user-attachments/assets/6b53c518-563d-4a9a-945f-79c82dbfef5b" />
 
@@ -406,14 +406,14 @@ Firing
 
 ### Prometheus Firing
 
-📸 **Screenshot**
+ **Screenshot**
 
 > <img width="480" height="432" alt="image" src="https://github.com/user-attachments/assets/2ccbcadf-b499-4f87-814d-4d8a979a5f7c" />
 
 
 ### Grafana Alert
 
-📸 **Screenshot**
+ **Screenshot**
 
 > <img width="1855" height="793" alt="image" src="https://github.com/user-attachments/assets/75d13615-e823-400f-8ffe-3e419846a530" />
 
@@ -440,7 +440,7 @@ CPU Alert 발생 시 Telegram으로 알림이 전달되는 것을 확인했습�
 
 ### Telegram Alert
 
-📸 **Screenshot**
+ **Screenshot**
 
 > <img width="365" height="449" alt="image" src="https://github.com/user-attachments/assets/3c2d6b97-c66d-4e09-afaa-c6e749d1f97f" />
 
@@ -491,7 +491,7 @@ Alert Recovery
 
 ### Alert Recovery
 
-📸 **Screenshot**
+ **Screenshot**
 
 > <img width="488" height="427" alt="image" src="https://github.com/user-attachments/assets/d28914ae-12b2-4e0c-b56d-32f6831c4e57" />
 
