@@ -1,0 +1,30 @@
+apiVersion: monitoring.coreos.com/v1
+kind: PrometheusRule
+metadata:
+  name: kubernetes-cpu-alert
+  namespace: monitoring
+  labels:
+    release: monitoring
+spec:
+  groups:
+    - name: kubernetes-monitoring
+      rules:
+        - alert: KubernetesCPUHigh
+          expr: |
+            100 * (
+              sum by (pod) (
+                rate(
+                  container_cpu_usage_seconds_total{
+                    namespace="default",
+                    container!="POD",
+                    container!=""
+                  }[5m]
+                )
+              )
+            ) > 30
+          for: 0m
+          labels:
+            severity: warning
+          annotations:
+            summary: "Kubernetes Pod CPU usage is high"
+            description: "Pod {{ $labels.pod }} CPU usage is above 30%."
