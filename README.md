@@ -258,7 +258,8 @@ Prometheus Query를 통해 Kubernetes의 실제 Pod 상태가 Metric으로 수�
 
 📸 **Screenshot**
 
-> Prometheus에서 PromQL Query를 실행한 화면
+> <img width="501" height="333" alt="image" src="https://github.com/user-attachments/assets/31bea2fb-9419-4e61-a48a-cd841121a823" />
+
 
 ---
 
