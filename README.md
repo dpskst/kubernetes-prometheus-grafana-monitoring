@@ -353,7 +353,8 @@ http://localhost:9090/alerts
 
 📸 **Screenshot**
 
->![Uploading image.png…]()
+><img width="481" height="726" alt="image" src="https://github.com/user-attachments/assets/6b53c518-563d-4a9a-945f-79c82dbfef5b" />
+
 
 
 ---
