@@ -214,8 +214,8 @@ http://localhost:3000
 
 📸 **Screenshot**
 
-> Grafana `Kubernetes → Compute Resources → Cluster` 화면
-> CPU / Memory 그래프가 보이는 화면
+> <img width="1844" height="905" alt="image" src="https://github.com/user-attachments/assets/e52067a5-e63a-4cac-af2a-1432ae8466f6" />
+
 
 ---
 
